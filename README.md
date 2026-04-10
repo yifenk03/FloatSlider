@@ -34,6 +34,10 @@ bash
 
 ```bash
 pip install -r requirements.txt
+
+或者（只有一个依赖）：
+pip install PyQt6
+
 ```
 
 1.运行程序：
