@@ -1,0 +1,2 @@
+# FloatSlide 依赖
+PyQt6>=6.4.0
